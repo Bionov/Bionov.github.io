@@ -191,6 +191,10 @@ li>a:hover:before {
     font-weight: 700;
 }
 
+video {
+    width: 50vw;
+}
+
 @media only screen and (max-width: 500px) {
     /* Appareils avec une résolution de 450 pixels ou moins */
     nav>ul>li {

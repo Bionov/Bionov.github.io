@@ -167,7 +167,6 @@ li>a:hover:before {
     text-align: center;
     overflow: hidden;
     transition: 0.3s;
-    border: rgb(59, 59, 59) 2px solid;
 }
 
 .equipage:hover {
@@ -203,6 +202,7 @@ video {
     }
     nav img {
         position: relative;
+        padding-bottom: 20px;
         left: 0;
     }
     nav {

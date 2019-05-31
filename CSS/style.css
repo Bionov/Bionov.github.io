@@ -29,8 +29,9 @@ nav {
 
 nav img {
     position: absolute;
-    height: 100px;
+    height: 75px;
     left: 2vw;
+    top: 8px;
 }
 
 nav img:hover {

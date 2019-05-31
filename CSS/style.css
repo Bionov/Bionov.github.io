@@ -206,7 +206,7 @@ video {
 
 .article img {
     height: 350px;
-    width: 33%;
+    width: 350px;
 }
 
 .article h1 {
@@ -215,6 +215,7 @@ video {
 
 .article p {
     padding: 20px;
+    text-align: justify;
 }
 
 @media only screen and (max-width: 500px) {
@@ -236,6 +237,15 @@ video {
         top: 25px;
         left: 20px;
         height: 50px;
+    }
+}
+
+@media only screen and (max-width: 1090px) {
+    .article {
+        flex-direction: column;
+    }
+    .article img {
+        margin: auto;
     }
 }
 

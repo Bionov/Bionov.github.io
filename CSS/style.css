@@ -130,7 +130,11 @@ li>a:hover:before {
 
 /*******************/
 
-.travil {
+#centré {
+    text-align: center;
+}
+
+.travil>p {
     text-align: center;
 }
 

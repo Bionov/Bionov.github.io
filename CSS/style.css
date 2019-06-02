@@ -214,6 +214,7 @@ video {
 
 .article {
     display: flex;
+    align-items: center;
     color: white;
     width: 80%;
     margin: 30px;
@@ -222,11 +223,14 @@ video {
 }
 
 .article img {
-    height: 350px;
-    width: 350px;
+    width: 25vw;
 }
 
 .article h1 {
+    padding: 0 20px;
+}
+
+.article h2 {
     padding: 0 20px;
 }
 

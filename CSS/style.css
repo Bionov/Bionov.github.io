@@ -130,6 +130,14 @@ li>a:hover:before {
 
 /*******************/
 
+.travil {
+    text-align: center;
+}
+
+.contenu img {
+    width: 50vw;
+}
+
 .pagecontent {
     display: flex;
     flex-direction: column;
@@ -140,6 +148,7 @@ li>a:hover:before {
 .contenu {
     width: 80%;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .equipe {
